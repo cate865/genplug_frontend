@@ -1,6 +1,6 @@
 # Genplug-UI
 
-To view the hosted version of the application click here - 
+Click here to start the application - https://genplug.herokuapp.com/
 
 # Authors: 
 * Catherine Muthoni
@@ -40,12 +40,13 @@ This is the UI for GenPlug Web Application, a wellness application aimed at prom
 
 # Setup Requirements
 * Vs Code IDE(preferrably)
-* Live Server extension in VS Code or XAMPP.
+* Live Server extension in VS Code or XAMPP.(if running manually)
 
 # How to run
-<p>Load your web-pages using the Go-live button on your IDE. It will start on port 5500.</p>
-<p>The ports of the application depend solely on what application is used at the time of launching</p>
-<p>For easier launching, use the hosted link to access the UI: </p>
+<p>The application has already been hosted so all you need to do is click on the heroku link above to start the application</p>
+<p>If you intend to load the system manually, load your web-pages using the Go-live button on your from the Live Server extension. It will start on port 5500.</p>
+<p>The ports of the application depend solely on what application is used for loading the web app. If you are not using Live Server, then you'll have a different host and port</p>
+
 
 
 
