@@ -1,3 +1,4 @@
 <?php
-include('../html/index.html');
+echo(__DIR__);
+include(__DIR__ .'../html/index.html');
 ?>
