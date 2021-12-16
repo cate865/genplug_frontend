@@ -396,7 +396,7 @@ function onQuestionDetailsSubmit() {
     document.getElementById("askquestion").style.display = "none";
     var formData = {};
     formData["question"] = document.getElementById("Question").value;
-    formData["profession"] = document.getElementById("Topic").value;
+    formData["profession"] = document.getElementById("Profession").value;
 
 
     askQuestion(formData);
